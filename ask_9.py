@@ -4,6 +4,10 @@
 #1o Eksamino
 import itertools
 
+#Meso tis vivliothikis itertools pairnw olous tous pithanous syndiasmous tis listas
+#Vriskw to athroisma kathe syndiasmou, kai krataw ton megalytero syndiasmo me vasi to athroisma
+
+
 def maxSequence(L):
     s=L[0]
     c=[]
